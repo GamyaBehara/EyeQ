@@ -1,6 +1,5 @@
 # 🧠 EyeQ: Image Object Detection Brain
 
-## 🔹 What is EyeQ?
 EyeQ is a computer vision project that acts like a simple **visual brain**.  
 It mimics the way humans look at an image and instantly recognize the objects inside.  
 Using state-of-the-art deep learning, EyeQ can scan any picture and tell you **what objects are present**.
@@ -49,6 +48,13 @@ Instead, EyeQ leverages **YOLOv5 (You Only Look Once v5)**, a pre-trained object
    - Optional annotated image with bounding boxes.  
 
 ---
+## Application Screenshots
+
+<img width="427" height="886" alt="Screenshot 2025-08-31 194428" src="https://github.com/user-attachments/assets/3ead61cd-ac82-41c1-a5c4-658d15858451" />
+<img width="427" height="886" alt="Screenshot 2025-08-31 194441" src="https://github.com/user-attachments/assets/01064110-e975-4b64-8f47-67c774584943" />
+<img width="427" height="886" alt="Screenshot 2025-08-31 194453" src="https://github.com/user-attachments/assets/e3b63324-0c5a-4e9e-896e-02e7f8c51805" />
+
+
 
 ## 📌 Future Improvements
 - Extend support to **video streams** (real-time detection).  
