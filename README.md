@@ -66,8 +66,3 @@ Instead, EyeQ leverages **YOLOv5 (You Only Look Once v5)**, a pre-trained object
 - Add **object counting** and category-based filtering.  
 - Build a **web app** or **mobile app** interface.  
 - Explore custom training for domain-specific objects.  
-
----
-
-👩‍💻 **Developed by:** [Your Name]  
-📌 Project: EyeQ – Image Object Detection Brain
