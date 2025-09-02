@@ -49,11 +49,8 @@ Instead, EyeQ leverages **YOLOv5 (You Only Look Once v5)**, a pre-trained object
 
 ---
 ## Application Screenshots
+
 <img width="427" height="886" alt="Screenshot 2025-08-31 194428" src="https://github.com/user-attachments/assets/3ead61cd-ac82-41c1-a5c4-658d15858451" />
-
-<img width="427" height="886" alt="Screenshot 2025-08-31 194441" src="https://github.com/user-attachments/assets/01064110-e975-4b64-8f47-67c774584943" />
-
-<img width="427" height="886" alt="Screenshot 2025-08-31 194453" src="https://github.com/user-attachments/assets/e3b63324-0c5a-4e9e-896e-02e7f8c51805" />
 
 
 
