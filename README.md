@@ -50,9 +50,16 @@ Instead, EyeQ leverages **YOLOv5 (You Only Look Once v5)**, a pre-trained object
 ---
 ## Application Screenshots
 
-<img width="427" height="886" alt="Screenshot 2025-08-31 194428" src="https://github.com/user-attachments/assets/3ead61cd-ac82-41c1-a5c4-658d15858451" />
+### Classroom
+<img width="1543" height="704" alt="Screenshot 2025-08-31 194428" src="https://github.com/user-attachments/assets/cf68b62b-16bc-4147-862d-a601da523b4b" />
 
+### Garden
+<img width="1545" height="878" alt="Screenshot 2025-08-31 194441" src="https://github.com/user-attachments/assets/82eb0178-d4e1-47db-9bd9-eeae70284d1f" />
 
+### Living Room
+<img width="1416" height="780" alt="Screenshot 2025-08-31 194453" src="https://github.com/user-attachments/assets/916ab7ae-70c7-413c-bd82-740304c7f774" />
+
+---
 
 ## 📌 Future Improvements
 - Extend support to **video streams** (real-time detection).  
