@@ -1,4 +1,4 @@
-# 🧠 EyeQ: Image Object Detection Brain
+# 🧠 EyeQ: Image Object Detection (Visual Brain)
 
 EyeQ is a computer vision project that acts like a simple **visual brain**.  
 It mimics the way humans look at an image and instantly recognize the objects inside.  
